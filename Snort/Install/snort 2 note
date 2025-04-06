@@ -1,0 +1,1 @@
+Using snort 2 since it has a standalone installer, there is a snort 3 updated with git hub. no standalone installer and packaged in a .tz file. This requires extra steps and beyond some improvements to speed and some settings doesn't change the fundamental function of snort.
